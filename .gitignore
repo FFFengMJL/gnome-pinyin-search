@@ -1,0 +1,17 @@
+# Build output
+dist/
+*.shell-extension.zip
+*.zip
+
+# Node tooling (only used if you experiment with bundling)
+node_modules/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# Editors and OS
+.DS_Store
+*.swp
+*~

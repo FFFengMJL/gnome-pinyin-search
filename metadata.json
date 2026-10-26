@@ -1,0 +1,9 @@
+{
+  "uuid": "pinyin-app-search@fffengmjl.github.io",
+  "name": "Pinyin App Search",
+  "description": "Pinyin search for applications in the GNOME Shell overview (full pinyin, initials and mixed input).",
+  "shell-version": ["48", "49", "50"],
+  "url": "https://github.com/FFFengMJL/gnome-pinyin-search",
+  "version": 1,
+  "version-name": "0.1.0"
+}
